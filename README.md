@@ -13,4 +13,4 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 Node-Red Dashboard link after deploying :https://node-red-chatbot1.eu-gb.mybluemix.net/ui/
 
-Youtube video link is : https://youtu.be/LlV2a6qJWTI
+Youtube video link is : https://youtu.be/urZlwfiR3Tg
